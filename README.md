@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C language .
 
-- 📫 How to reach me : Twitter : @SatyamKoul8
+- 📫 Twitter : https://twitter.com/SatyamKoul8
 
 <!---
 satyamkoul/satyamkoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
